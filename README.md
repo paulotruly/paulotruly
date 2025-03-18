@@ -1,4 +1,7 @@
-### 
+## Oi, meu nome é Paulo!
+
+Sou estudante do 1º períopdo de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br)
+
 
 ```
                                             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
