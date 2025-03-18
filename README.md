@@ -32,7 +32,7 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 
 ```
 
-### Linguagens e ferramentas
+## Linguagens e ferramentas
 
 <p align="left">
 
@@ -79,9 +79,9 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 
 </p>
 
-### Status
+## Status
 
-[![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotruly&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotruly&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
