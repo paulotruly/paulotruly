@@ -76,4 +76,6 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
   </a>
 </p>
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
