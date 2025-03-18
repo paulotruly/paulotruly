@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulotruly&label=Profile%20views&color=0e75b6&style=flat" alt="paulotruly" /> </p>
+
 # Oi, meu nome é Paulo!
 
 Sou estudante do 1º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br), ambos no formato remoto.
