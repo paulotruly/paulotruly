@@ -2,7 +2,7 @@
 
 Sou estudante do 1º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br), ambos no formato remoto.
 
-Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em projetos reais e aprendendo com as demandas do ambiente corporativo. Busco me desenvolver continuamente!
+Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em projetos reais e aprendendo no dia a dia. Como estudante, busco me desenvolver, contribuir com minha dedicação e, aos poucos, me preparar para enfrentar desafios mais complexos no mercado!
 
 <p align="left">
 <a href="https://linkedin.com/in/paulotruly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulotruly" height="30" width="40" /></a>
