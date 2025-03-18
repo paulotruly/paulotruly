@@ -6,13 +6,13 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 
 <p align="left">
   <a href="https://linkedin.com/in/paulotruly" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.behance.net/paulotruly" target="blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="mailto:paulomsmsms@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-4285F4?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 
 ```
 
-# Linguagens e ferramentas
+### Linguagens e ferramentas
 
 <p align="left">
 
@@ -79,6 +79,9 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 
 </p>
 
-[![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotruly&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Status
+
+[![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotruly&hide=html&layout=compact&theme=darkt)](https://github.com/anuraghazra/github-readme-stats)
+[![paulotruly](https://github-readme-stats.vercel.app/api?username=paulotruly&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
