@@ -5,23 +5,30 @@ Sou estudante do 1º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [C
 Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em projetos reais e aprendendo no dia a dia. Como estudante, busco me desenvolver, contribuir com minha dedicação e, aos poucos, me preparar para enfrentar desafios mais complexos no mercado!
 
 <p align="left">
-<a href="https://linkedin.com/in/paulotruly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulotruly" height="30" width="40" /></a>
-<a href="https://www.behance.net/paulotruly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="paulotruly" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/paulotruly" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/paulotruly" target="blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="mailto:paulomsmsms@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-4285F4?logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ```
-                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠙⣷⣦⣤⣤⣦⣄⣀⣀⡀⣠⣴⡾⠋⠉⢣⠀⠀⠀
-                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠀⠀⠀⠈⡇⠀⠀
-                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣀⣀⣠⣾⣿⣿⠟⠋⢿⣿⣿⣿⣯⣀⠀⠀⠀⠀⠀⡇⠀⠀
-                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⡿⠋⠀⠀⠀⠈⠻⣿⣿⣿⣯⣳⢶⣵⣶⣴⡃⠀⠀
-                                                                                    ⠀⠀⠀⠀⣀⣄⡀⠀⣼⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⣤⣿⣿⣷⣽⣻⣽⣿⣿⣿⣷⠀⠀
-                                                                                    ⠀⠀⠀⢰⠋⠉⡇⣰⣿⣿⡿⠉⠻⠟⠃⠀⠀⠀⢰⡿⣿⣿⠿⣹⣿⣿⣿⣿⣿⣿⡆⠀
-                                                                                    ⠀⣠⠖⠛⠒⢾⣥⣿⣿⣿⡏⠀⠀⠀⠀⢴⣲⡄⠀⠈⠉⠀⣼⣿⣿⣿⣿⣿⣿⣿⣻⠀
-                                                                                    ⡾⠁⠀⢀⠀⢆⣯⢻⠉⠛⠛⠀⢀⡀⡀⠼⣅⠀⠀⠀⠀⠀⢿⢿⣿⣿⣿⡿⠟⢯⣽⡆
-                                                                                    ⣿⠀⠤⣌⠷⠊⠙⠺⡀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠒⠒⠊⠀⠀⠀⠉ ⠉⠙⢷⡩⢖⣿⡄
-                                                                                    ⠈⠳⡖⠀⠀⠀⠀⠀⠈⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀   ⠀⠀⣷⣿⣿⡇
-                                                                                    ⠀⠀⠳⢀⣀⣀⣀⣈⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⣾⣯⣿⣿⣶⢦⡤⣠⢼⢿⠿⠁
+                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠙⣷⣦⣤⣤⣦⣄⣀⣀⡀⣠⣴⡾⠋⠉⢣⠀⠀⠀
+                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠀⠀⠀⠈⡇⠀⠀
+                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣀⣀⣠⣾⣿⣿⠟⠋⢿⣿⣿⣿⣯⣀⠀⠀⠀⠀⠀⡇⠀⠀
+                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⡿⠋⠀⠀⠀⠈⠻⣿⣿⣿⣯⣳⢶⣵⣶⣴⡃⠀⠀
+                                                                              ⠀⠀⠀⠀⣀⣄⡀⠀⣼⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⣤⣿⣿⣷⣽⣻⣽⣿⣿⣿⣷⠀⠀
+                                                                              ⠀⠀⠀⢰⠋⠉⡇⣰⣿⣿⡿⠉⠻⠟⠃⠀⠀⠀⢰⡿⣿⣿⠿⣹⣿⣿⣿⣿⣿⣿⡆⠀
+                                                                              ⠀⣠⠖⠛⠒⢾⣥⣿⣿⣿⡏⠀⠀⠀⠀⢴⣲⡄⠀⠈⠉⠀⣼⣿⣿⣿⣿⣿⣿⣿⣻⠀
+                                                                              ⡾⠁⠀⢀⠀⢆⣯⢻⠉⠛⠛⠀⢀⡀⡀⠼⣅⠀⠀⠀⠀⠀⢿⢿⣿⣿⣿⡿⠟⢯⣽⡆
+                                                                              ⣿⠀⠤⣌⠷⠊⠙⠺⡀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠒⠒⠊⠀⠀⠀⠉ ⠉⠙⢷⡩⢖⣿⡄
+                                                                              ⠈⠳⡖⠀⠀⠀⠀⠀⠈⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀   ⠀⠀⣷⣿⣿⡇
+                                                                              ⠀⠀⠳⢀⣀⣀⣀⣈⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⣾⣯⣿⣿⣶⢦⡤⣠⢼⢿⠿⠁
 
 ```
 
