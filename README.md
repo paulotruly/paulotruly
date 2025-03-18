@@ -4,32 +4,30 @@ Sou estudante do 1º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [C
 
 Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em projetos reais e aprendendo no dia a dia. Como estudante, busco me desenvolver, contribuir com minha dedicação e, aos poucos, me preparar para enfrentar desafios mais complexos no mercado!
 
-[![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
 <a href="https://linkedin.com/in/paulotruly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulotruly" height="30" width="40" /></a>
 <a href="https://www.behance.net/paulotruly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="paulotruly" height="30" width="40" /></a>
 </p>
 
 ```
-                                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠙⣷⣦⣤⣤⣦⣄⣀⣀⡀⣠⣴⡾⠋⠉⢣⠀⠀⠀
-                                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠀⠀⠀⠈⡇⠀⠀
-                                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣀⣀⣠⣾⣿⣿⠟⠋⢿⣿⣿⣿⣯⣀⠀⠀⠀⠀⠀⡇⠀⠀
-                                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⡿⠋⠀⠀⠀⠈⠻⣿⣿⣿⣯⣳⢶⣵⣶⣴⡃⠀⠀
-                                                                                              ⠀⠀⠀⠀⣀⣄⡀⠀⣼⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⣤⣿⣿⣷⣽⣻⣽⣿⣿⣿⣷⠀⠀
-                                                                                              ⠀⠀⠀⢰⠋⠉⡇⣰⣿⣿⡿⠉⠻⠟⠃⠀⠀⠀⢰⡿⣿⣿⠿⣹⣿⣿⣿⣿⣿⣿⡆⠀
-                                                                                              ⠀⣠⠖⠛⠒⢾⣥⣿⣿⣿⡏⠀⠀⠀⠀⢴⣲⡄⠀⠈⠉⠀⣼⣿⣿⣿⣿⣿⣿⣿⣻⠀
-                                                                                              ⡾⠁⠀⢀⠀⢆⣯⢻⠉⠛⠛⠀⢀⡀⡀⠼⣅⠀⠀⠀⠀⠀⢿⢿⣿⣿⣿⡿⠟⢯⣽⡆
-                                                                                              ⣿⠀⠤⣌⠷⠊⠙⠺⡀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠒⠒⠊⠀⠀⠀⠉ ⠉⠙⢷⡩⢖⣿⡄
-                                                                                              ⠈⠳⡖⠀⠀⠀⠀⠀⠈⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀   ⠀⠀⣷⣿⣿⡇
-                                                                                              ⠀⠀⠳⢀⣀⣀⣀⣈⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⣾⣯⣿⣿⣶⢦⡤⣠⢼⢿⠿⠁
+                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠙⣷⣦⣤⣤⣦⣄⣀⣀⡀⣠⣴⡾⠋⠉⢣⠀⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠀⠀⠀⠈⡇⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣀⣀⣠⣾⣿⣿⠟⠋⢿⣿⣿⣿⣯⣀⠀⠀⠀⠀⠀⡇⠀⠀
+                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⡿⠋⠀⠀⠀⠈⠻⣿⣿⣿⣯⣳⢶⣵⣶⣴⡃⠀⠀
+                                                                                    ⠀⠀⠀⠀⣀⣄⡀⠀⣼⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⣤⣿⣿⣷⣽⣻⣽⣿⣿⣿⣷⠀⠀
+                                                                                    ⠀⠀⠀⢰⠋⠉⡇⣰⣿⣿⡿⠉⠻⠟⠃⠀⠀⠀⢰⡿⣿⣿⠿⣹⣿⣿⣿⣿⣿⣿⡆⠀
+                                                                                    ⠀⣠⠖⠛⠒⢾⣥⣿⣿⣿⡏⠀⠀⠀⠀⢴⣲⡄⠀⠈⠉⠀⣼⣿⣿⣿⣿⣿⣿⣿⣻⠀
+                                                                                    ⡾⠁⠀⢀⠀⢆⣯⢻⠉⠛⠛⠀⢀⡀⡀⠼⣅⠀⠀⠀⠀⠀⢿⢿⣿⣿⣿⡿⠟⢯⣽⡆
+                                                                                    ⣿⠀⠤⣌⠷⠊⠙⠺⡀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠒⠒⠊⠀⠀⠀⠉ ⠉⠙⢷⡩⢖⣿⡄
+                                                                                    ⠈⠳⡖⠀⠀⠀⠀⠀⠈⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀   ⠀⠀⣷⣿⣿⡇
+                                                                                    ⠀⠀⠳⢀⣀⣀⣀⣈⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⣾⣯⣿⣿⣶⢦⡤⣠⢼⢿⠿⠁
 
 ```
 
 ## Linguagens e ferramentas
 
-<p align="left">
+[![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 
