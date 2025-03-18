@@ -1,14 +1,12 @@
 ### 
 
-               ／＞　 フ
-               | 　_　_| 
-          ／` ミ＿xノ 
-         /　　　　 |
-        /　 ヽ　　 ﾉ
-        │　　|　|　|
-／￣|　　 |　|　|
-(￣ヽ＿_ヽ_)__)
-＼二)
+)     /\__/\
+( =/   • •   \=
+-------U-U------------------
+|                          |
+|      type here!          |
+|                          |
+----------------------------
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/paulotruly)
 
