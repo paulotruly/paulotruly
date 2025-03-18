@@ -84,3 +84,4 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 [![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotruly&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
