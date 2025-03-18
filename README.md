@@ -25,9 +25,7 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 
 ```
 
-## Linguagens e ferramentas
-
-[![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# Linguagens e ferramentas
 
 <p align="left">
 
@@ -78,5 +76,7 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
   </a>
 
 </p>
+
+[![paulotruly](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotruly&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
