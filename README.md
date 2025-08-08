@@ -2,7 +2,7 @@
 
 # Oi, meu nome é Paulo!
 
-Sou estudante do 1º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br), ambos no formato remoto.
+Sou estudante do 2º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br), ambos no formato remoto.
 
 Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em projetos reais e aprendendo no dia a dia. Como estudante, busco me desenvolver, contribuir com minha dedicação e, aos poucos, me preparar para enfrentar desafios mais complexos no mercado!
 
