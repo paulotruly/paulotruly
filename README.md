@@ -53,8 +53,8 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </a>
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic"/>
