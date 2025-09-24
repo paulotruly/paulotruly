@@ -53,6 +53,9 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </a>
