@@ -65,12 +65,6 @@ Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
 </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="illustrator"/>
-</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="photoshop"/>
-</a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
