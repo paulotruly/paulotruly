@@ -2,7 +2,15 @@
 
 # Oi, meu nome é Paulo!
 
-Sou estudante do 3º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br), ambos no formato remoto. Atualmente, atuo como professor na [Infinity School](https://infinityschool.com.br) oferecendo aulas de Python, HTML, CSS e JavaScript, ajudando estudantes que estão iniciando na área de tecnologia a desenvolverem.
+```
+Sou estudante do 3º período de **Gestão da Tecnologia da Informação** no [CESAR School](https://www.cesar.school) e do 8º período de **Ciência da Computação** na [UNINASSAU](https://www.uninassau.edu.br), ambos na modalidade remota.  
+
+Neste semestre, atuo como **monitor da disciplina de PROGRAMAÇÃO ORIENTADA A OBJETOS**, auxiliando alunos na compreensão de conceitos como orientação a objetos, desenvolvimento de APIs e estruturação de projetos.
+```
+
+```
+Atualmente, atuo como professor na [Infinity School](https://infinityschool.com.br) oferecendo aulas de Python, HTML, CSS e JavaScript, ajudando estudantes que estão iniciando na área de tecnologia a desenvolverem.
+```
 
 <p align="left">
   <a href="https://linkedin.com/in/paulotruly" target="blank">
