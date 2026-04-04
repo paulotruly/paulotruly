@@ -2,37 +2,16 @@
 
 # Oi, meu nome é Paulo!
 
-Sou estudante do 3º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br), ambos no formato remoto.
-
-Meu objetivo é adquirir experiência prática, aplicando meus conhecimentos em projetos reais e aprendendo no dia a dia. Como estudante, busco me desenvolver, contribuir com minha dedicação e, aos poucos, me preparar para enfrentar desafios mais complexos no mercado!
+Sou estudante do 3º período de **GESTÃO DA TECNOLOGIA DA INFORMAÇÃO** no [CESAR School](https://www.cesar.school) e 8º período de **CIÊNCIA DA COMPUTAÇÃO** na [UNINASSAU](https://www.uninassau.edu.br), ambos no formato remoto. Atualmente, atuo como professor na [Infinity School[](),](https://infinityschool.com.br) oferecendo aulas de Python, HTML, CSS e JavaScript, ajudando estudantes que estão iniciando na área de tecnologia a desenvolverem.
 
 <p align="left">
   <a href="https://linkedin.com/in/paulotruly" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.behance.net/paulotruly" target="blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
   <a href="mailto:paulomsmsms@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-```
-                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠙⣷⣦⣤⣤⣦⣄⣀⣀⡀⣠⣴⡾⠋⠉⢣⠀⠀⠀
-                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠀⠀⠀⠈⡇⠀⠀
-                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣀⣀⣠⣾⣿⣿⠟⠋⢿⣿⣿⣿⣯⣀⠀⠀⠀⠀⠀⡇⠀⠀
-                                                                              ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⡿⠋⠀⠀⠀⠈⠻⣿⣿⣿⣯⣳⢶⣵⣶⣴⡃⠀⠀
-                                                                              ⠀⠀⠀⠀⣀⣄⡀⠀⣼⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⣤⣿⣿⣷⣽⣻⣽⣿⣿⣿⣷⠀⠀
-                                                                              ⠀⠀⠀⢰⠋⠉⡇⣰⣿⣿⡿⠉⠻⠟⠃⠀⠀⠀⢰⡿⣿⣿⠿⣹⣿⣿⣿⣿⣿⣿⡆⠀
-                                                                              ⠀⣠⠖⠛⠒⢾⣥⣿⣿⣿⡏⠀⠀⠀⠀⢴⣲⡄⠀⠈⠉⠀⣼⣿⣿⣿⣿⣿⣿⣿⣻⠀
-                                                                              ⡾⠁⠀⢀⠀⢆⣯⢻⠉⠛⠛⠀⢀⡀⡀⠼⣅⠀⠀⠀⠀⠀⢿⢿⣿⣿⣿⡿⠟⢯⣽⡆
-                                                                              ⣿⠀⠤⣌⠷⠊⠙⠺⡀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠒⠒⠊⠀⠀⠀⠉ ⠉⠙⢷⡩⢖⣿⡄
-                                                                              ⠈⠳⡖⠀⠀⠀⠀⠀⠈⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀   ⠀⠀⣷⣿⣿⡇
-                                                                              ⠀⠀⠳⢀⣀⣀⣀⣈⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⣾⣯⣿⣿⣶⢦⡤⣠⢼⢿⠿⠁
-
-```
 
 ## Linguagens e ferramentas
 
