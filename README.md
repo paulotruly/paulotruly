@@ -64,6 +64,9 @@ Atualmente, atuo como **professor** na [Infinity School](https://infinityschool.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+</a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </a>
