@@ -75,14 +75,3 @@ Atualmente, atuo como **professor** na [Infinity School](https://infinityschool.
 </a>
 
 </p>
-
----
-
-## No que estou trabalhando agora
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **SONORA** | Sistema de classificação de áudio em tempo real com controle de iluminação smart (lâmpada LIFX) | Python, FastAPI, PyTorch, Transformers, JWT |
-| **CRUD com Express** | API RESTful com TypeScript, Express e autenticação JWT | TypeScript, Express, JWT, bcrypt |
-| **CRUD com Spring Boot** | Materiais e exemplos para a monitoria de POO | Java, Spring Boot, JPA, Maven |
-
